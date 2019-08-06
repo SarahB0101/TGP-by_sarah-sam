@@ -8,6 +8,8 @@ Que faire en ouvrant le dossier?
 
 $bundle install 
 
+$rails db:create 
+
 $rails db:migrate 
 
 $rails db:seed
